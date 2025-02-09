@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "Ikq4TpzON3E=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\dizza\\source\\repos\\TriangleApp\\TriangleTest\\TriangleTest.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\dizza\\.nuget\\packages\\nunit\\4.3.2\\nunit.4.3.2.nupkg.sha512",
+    "C:\\Users\\dizza\\.nuget\\packages\\nunit3testadapter\\4.6.0\\nunit3testadapter.4.6.0.nupkg.sha512"
+  ],
+  "logs": []
+}
